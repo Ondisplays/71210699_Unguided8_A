@@ -2,16 +2,16 @@ Berikut adalah papan permainan arsir. Tentukan step by step X dapat mengarsir HA
 
 Untuk Hx:
 1 X.ADD_RIGHT
-2 X.DIE
-3 X.ADD_DOWN
-4 X.DIE
-5 X.ADD_RIGHT
-6 X.DIE
-7 X.ADD_RIGHT
+2 X.ADD_DOWN
+3 X.ADD_RIGHT
+4 X.ADD_RIGHT
+5 X.ADD_UP
+6 X.ADD_RIGHT
+7 X.DIE
 8 X.DIE
-9 X.ADD_UP
+9 X.DIE
 10 X.DIE 
-11 X.ADD_RIGHT
+11 X.DIE
 12 X.DIE
 
 Untuk Hy:
