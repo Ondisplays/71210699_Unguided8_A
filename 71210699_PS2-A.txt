@@ -1,0 +1,7 @@
+Terdapat 4 buah cangkir kosong (4, 9, 5, 7) yang akan di isi dengan kopi. Berdasarkan
+ilustrasi gambar di bawah, tentukan cangkir mana yang terisi lebih dahulu serta berikan
+penjelasannya !
+
+Jawaban, Cangkir no 5 yang akan terisi terlebih dahulu karena pipa pada cangkir nomer 4, 9, dan 7 
+tertutup . Sedangkan Cangkir nomer 5 merupakan cangkir yang memiliki pipa terbuka sehingga kopi
+dapat mengalir kerdalam cangkir.
